@@ -25,7 +25,7 @@ To build a **deep learning-based detection system** that can accurately identify
 - Analyzes **facial movement, blinking, and lighting** inconsistencies  
 - Supports **video frame extraction and preprocessing**  
 - Uses **transfer learning** with XceptionNet for efficient training  
-- Outputs **real-time predictions**: *Real Video* ✅ or *Deepfake Detected 😈*
+- Outputs **real-time predictions**: *Real Video* or *Deepfake Detected *
 
 ---
 
